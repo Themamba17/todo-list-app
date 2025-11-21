@@ -1,0 +1,6 @@
+- [ ] Change add modal form item name from "Deadline" to "due"
+- [ ] In handleSubmit, store due as ISO string if present
+- [ ] Update table Due Date column render to display formatted date or 'Tidak Ada'
+- [ ] Update Due Date sorter to compare Date objects
+- [ ] In onEditTask, set due using moment from ISO string
+- [ ] In edit DatePicker onChange, set due to ISO string
